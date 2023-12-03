@@ -4,6 +4,7 @@ div {
 }
 
 h2 {
+  position: absolute;
   left: 50%;
 }
 
