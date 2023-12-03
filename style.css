@@ -13,3 +13,9 @@ h2 {
   top: 40px;
   left: 100px;
 }
+
+.position {
+  position: relative;
+  bottom: 40px;
+  left: 20px;
+}
