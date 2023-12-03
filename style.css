@@ -1,10 +1,10 @@
 div {
-  position: absolute;
+  position: relative;
   left: 400px;
 }
 
 h2 {
-  position: absolute;
+  position: relative;
   left: 50%;
 }
 
