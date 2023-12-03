@@ -3,6 +3,10 @@ div {
   left: 400px;
 }
 
+h2 {
+  left: 50%;
+}
+
 .points {
   position: static;
 }
