@@ -9,5 +9,6 @@ h2 {
 }
 
 .points {
-  position: static;
+  position: relative;
+  bottom: 40px;
 }
