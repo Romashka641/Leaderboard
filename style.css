@@ -1,5 +1,6 @@
 div {
-  position: static;
+  position: absolute;
+	left: 15px;
 }
 
 .points {
