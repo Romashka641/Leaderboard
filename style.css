@@ -1,6 +1,6 @@
 div {
   position: relative;
-  left: 400px;
+  left: 40px;
 }
 
 h2 {
@@ -10,5 +10,6 @@ h2 {
 
 .points {
   position: relative;
-  bottom: 40px;
+  top: 40px;
+  left: 100px;
 }
