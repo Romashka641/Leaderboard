@@ -10,12 +10,12 @@ h2 {
 
 .points {
   position: relative;
-  top: 40px;
+  top: 0px;
   left: 100px;
 }
 
 .position {
   position: relative;
-  bottom: 40px;
+  bottom: 0px;
   left: 20px;
 }
