@@ -1,6 +1,9 @@
 div {
-  margin: 1em;
   position: absolute;
   left: 25px;
   top: 50px;
+}
+
+.points {
+  
 }
